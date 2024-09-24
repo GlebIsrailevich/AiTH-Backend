@@ -9,3 +9,5 @@
 #### Запуск pytest
     cd Backend_HW1/tests
     pytest test.py
+    
+Команд Linux и Mac к сожалению не знаю(
