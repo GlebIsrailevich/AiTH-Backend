@@ -4,10 +4,10 @@
 Реализация Математического API с вычислением factorial, fibbonacci numbers, mean value
 ### Шаги по запуску
 #### Запуск Приложжения
-    cd Backend_HW1
+ 1.   cd Backend_HW1
     
-    uvicorn main:app
+2.    uvicorn main:app
 #### Запуск pytest
-    cd Backend_HW1/tests
+1.    cd Backend_HW1/tests
     
-    pytest test.py
+2.    pytest test.py
